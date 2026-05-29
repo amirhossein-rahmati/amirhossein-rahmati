@@ -1,16 +1,32 @@
 ## Hi there 👋
+# Amirhossein Rahmati
 
-<!--
-**amirhossein-rahmati/amirhossein-rahmati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Networking & IT Infrastructure Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+Computer Engineering student focused on building strong skills in networking and IT infrastructure through hands-on practice and continuous learning.
+
+---
+
+## 🧠 Skills
+- Cisco Networking (CCNA)
+- MikroTik Basics
+- VMware
+- Network Design (Packet Tracer)
+
+---
+
+## 📁 Projects
+- Networking Labs (Cisco Packet Tracer)
+
+---
+
+## 🎯 Goal
+To become a professional Network Engineer and gain real-world experience in IT infrastructure.
+
+---
+
+## 📫 Contact
+GitHub: Amirhossein Rahmati

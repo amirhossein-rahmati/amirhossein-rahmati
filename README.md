@@ -20,6 +20,7 @@ Computer Engineering student focused on building strong skills in networking and
 
 ## 📁 Projects
 - Networking Labs (Cisco Packet Tracer)
+- CCNA Enterprise Campus Network
 
 ---
 

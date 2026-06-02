@@ -1,45 +1,50 @@
 # Amirhossein Rahmati
 
-💻 Network & IT Infrastructure Engineer (Junior)  
-🎓 Computer Engineering Student | CCNA Path
+💻 Network & IT Infrastructure Enthusiast  
+🎓 Computer Engineering Student
 
 ---
 
 ## 👨‍💻 About Me
-Computer Engineering student focused on networking and IT infrastructure.  
-Experienced in designing and simulating enterprise network topologies using Cisco Packet Tracer and learning real-world routing, switching, and security concepts.
+Computer Engineering student focused on building strong practical skills in networking, IT infrastructure, and system administration.
+
+I am passionate about designing and simulating enterprise network environments and learning how real-world infrastructures are built, secured, and maintained.
+
+I work hands-on with networking concepts, virtualization technologies, and network simulation tools to strengthen my technical foundation.
 
 ---
 
 ## 🧠 Skills
-- Cisco Networking (CCNA Level: VLAN, STP, OSPF, DHCP)
-- Network Design & Troubleshooting (Packet Tracer)
-- MikroTik Basics
-- VMware / Virtualization
+- Computer Networking (Routing & Switching fundamentals)
+- Network Design & Simulation (Cisco Packet Tracer)
+- VLAN, STP, DHCP, OSPF basics
+- MikroTik fundamentals
+- VMware / Virtualization basics
 - Basic Git & GitHub
 
 ---
 
 ## 📁 Projects
 
-### 🔹 CCNA Enterprise Campus Network
-- VLAN segmentation with inter-VLAN routing (Router-on-a-Stick)
-- DHCP configuration for multiple subnets
-- STP & BPDU Guard for loop prevention
-- Port Security with sticky MAC addresses
+### 🔹 Enterprise Network Design Lab
+- Designed a multi-VLAN enterprise topology
+- Implemented inter-VLAN routing using Router-on-a-Stick
+- Configured DHCP for multiple network segments
+- Applied STP and BPDU Guard for loop prevention
 
 ### 🔹 Network Security Lab
-- Implemented Port Security policies
-- Controlled unauthorized device access
+- Implemented Port Security with sticky MAC addresses
+- Controlled unauthorized device access at switch level
 
-### 🔹 VLAN & VTP Design Lab
-- Configured VLANs and VTP domain
-- Tested trunk links and segmentation
+### 🔹 VLAN & Switching Lab
+- Designed VLAN segmentation architecture
+- Configured trunk links and VTP domain communication
+- Tested end-to-end connectivity between VLANs
 
 ---
 
 ## 🎯 Goal
-To become a professional Network Engineer specializing in enterprise infrastructure, with focus on CCNA-level networking, security, and virtualization.
+To become a professional Network & IT Infrastructure Engineer and develop expertise in enterprise networking, system administration, and scalable infrastructure design.
 
 ---
 

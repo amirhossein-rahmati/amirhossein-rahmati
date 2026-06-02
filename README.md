@@ -50,5 +50,4 @@ To become a professional Network & IT Infrastructure Engineer and develop expert
 
 ## 📫 Contact
 - GitHub: Amirhossein-Rahmati  
-- LinkedIn: (add your link here)  
-- Email: (add your email here)
+- Email: (amiirhosseinrahmati@gmail.com)

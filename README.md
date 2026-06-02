@@ -35,7 +35,7 @@ I continuously improve my skills in routing, switching, network security, and vi
 
 ---
 
-### 🔹 VLAN & Switching Lab
+  ### 🔹 Network-Lab
 - Designed VLAN segmentation architecture
 - Configured trunk links between switches
 - Implemented VTP domain for VLAN management

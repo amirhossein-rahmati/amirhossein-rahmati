@@ -26,7 +26,7 @@ I continuously improve my skills in routing, switching, network security, and vi
 
 ## 📁 Projects
 
-### 🔹 CCNA Enterprise Campus Network
+### 🔹 Multi-VLAN Enterprise Network with Router-on-a-Stick
 - Designed an enterprise multi-VLAN network topology
 - Implemented inter-VLAN routing using Router-on-a-Stick
 - Configured DHCP for multiple VLANs/subnets
@@ -35,7 +35,7 @@ I continuously improve my skills in routing, switching, network security, and vi
 
 ---
 
-  ### 🔹 Network Lab
+  ### 🔹 Enterprise-Campus-Network-Design
 - Designed VLAN segmentation architecture
 - Configured trunk links between switches
 - Implemented VTP domain for VLAN management

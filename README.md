@@ -35,12 +35,26 @@ I continuously improve my skills in routing, switching, network security, and vi
 
 ---
 
-  ### 🔹 Enterprise-Campus-Network-Design
+ ### 🔹 Enterprise-Campus-Network-Design
 - Designed VLAN segmentation architecture
 - Configured trunk links between switches
 - Implemented VTP domain for VLAN management
 - Verified connectivity between different VLANs
 
+---
+
+### 🔹 Enterprise-Campus-Network-Design
+
+- Designed and implemented a scalable enterprise campus network topology
+- Segmented network traffic using VLANs for multiple departments
+- Configured Layer 3 switching and Inter-VLAN Routing
+- Deployed DHCP services for centralized address management
+- Implemented Static Routing across interconnected routers
+- Configured 802.1Q trunking between network devices
+- Enhanced access-layer security using Port Security, BPDU Guard, and PortFast
+- Established dedicated server infrastructure within a separate VLAN
+- Performed connectivity validation and troubleshooting across the entire network
+  
 ---
 
 ## 🎯 Goal

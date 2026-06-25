@@ -43,17 +43,15 @@ I continuously improve my skills in routing, switching, network security, and vi
 
 ---
 
-### 🔹 Enterprise-Campus-Network-Design
-
-- Designed and implemented a scalable enterprise campus network topology
-- Segmented network traffic using VLANs for multiple departments
-- Configured Layer 3 switching and Inter-VLAN Routing
-- Deployed DHCP services for centralized address management
-- Implemented Static Routing across interconnected routers
-- Configured 802.1Q trunking between network devices
-- Enhanced access-layer security using Port Security, BPDU Guard, and PortFast
-- Established dedicated server infrastructure within a separate VLAN
-- Performed connectivity validation and troubleshooting across the entire network
+### 🔹 CCNA Enterprise Campus Network
+- Designed and implemented an enterprise campus network topology
+- Configured VLAN segmentation for multiple departments
+- Implemented Inter-VLAN Routing using Multilayer Switches
+- Deployed DHCP services for automatic IP address allocation
+- Configured Static Routing between remote network segments
+- Applied Port Security, PortFast, and BPDU Guard
+- Established a dedicated Server VLAN
+- Verified end-to-end connectivity and network functionality
   
 ---
 
